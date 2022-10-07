@@ -1,0 +1,12 @@
+debug/
+compile_commands.json
+release/
+
+packages/keyzz_*
+keyzz.log
+
+# IDE files
+.cache/
+.vscode/
+*.swp
+run-ide.sh

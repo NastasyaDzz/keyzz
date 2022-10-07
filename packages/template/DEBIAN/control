@@ -1,0 +1,6 @@
+Package: keyzz
+Version: {{VERSION}}
+Architecture: amd64
+Maintainer: DmitryDzz <DzakhovDS@robot-mitya.ru>
+Depends: libncurses6, libncursesw6
+Description: A keyboard terminal game.
